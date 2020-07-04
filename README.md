@@ -1,6 +1,6 @@
-# DH101 Project
+# DIGHUM101 Project
 
-This is the repository for my Berkeley DH101 project under Professor Evan Muzzall during Summer 2020 Session A.
+This is the repository for my Berkeley DIGHUM101 project under Professor Evan Muzzall.
 
 ![image](images/world.png)
 
