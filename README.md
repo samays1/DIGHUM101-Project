@@ -1,8 +1,8 @@
 # DH101 Project
 
-![image](images/world.png)
-
 This is the repository for my Berkeley DH101 project under Professor Evan Muzzall during Summer 2020 Session A.
+
+![image](images/world.png)
 
 ### Group Project Abstract
 
